@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou cursando o Ensino Médio junto com o curso técnico integrado, em Análise em Desenvovimento de Sistemas.
 - 🔭 Estou me desenvolvendo em HTML, CSS, JS, JAVA e SQL
-
+- 
 <div align="center">
     <a href="https://github.com/Gabrielbmm">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbmm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -15,9 +15,7 @@
   <img align="center" alt="Gabriel-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-BootStrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
   <img align="center" alt="Gabriel-JAVA" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-JAVA" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-                   
-       
+  <img align="center" alt="Gabriel-JAVA" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
 </div>
 <br>
 <br>

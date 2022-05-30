@@ -1,7 +1,7 @@
 ## Opa, tudo certo? Meu nome é Gabriel e esse é meu GitHub 👋
 
-- 🌱 Atualmente estou cursando o Ensino Médio junto com o curso técnico integrado, em Análise em Desenvovimento de Sistemas.
-- 🔭 Estou me desenvolvendo em HTML, CSS, JS, JAVA e SQL
+- 🌱 Atualmente estou cursando o Ensino Médio na SESI/SENAI junto com o curso técnico integrado, em Análise em Desenvovimento de Sistemas.
+- 🔭 Estou me desenvolvendo em HTML, CSS, JavaScript, JAVA e SQL
 
 <div align="center">
     <a href="https://github.com/Gabrielbmm">

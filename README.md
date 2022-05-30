@@ -2,7 +2,7 @@
 
 - 🌱 Atualmente estou cursando o Ensino Médio junto com o curso técnico integrado, em Análise em Desenvovimento de Sistemas.
 - 🔭 Estou me desenvolvendo em HTML, CSS, JS, JAVA e SQL
-- 
+
 <div align="center">
     <a href="https://github.com/Gabrielbmm">
   <img height="165em" src="https://github-readme-stats.vercel.app/api?username=Gabrielbmm&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
@@ -26,5 +26,3 @@
  
   ![Snake animation](https://github.com/Gabrielbmm/Gabrielbmm/blob/output/github-contribution-grid-snake.svg)
 </div>
-
-

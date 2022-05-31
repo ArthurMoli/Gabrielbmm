@@ -14,8 +14,9 @@
   <img align="center" alt="Gabriel-CSS" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Gabriel-Js" height="45" width="55" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Gabriel-BootStrap" height="50" width="55" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg">
+  <img align="center" alt="Gabriel-Spring" height="35" width="45" src="https://cdn.discordapp.com/attachments/933196017048887377/976967659285536779/Sem_nome_80_60_px.png" />
   <img align="center" alt="Gabriel-JAVA" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Gabriel-JAVA" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
+  <img align="center" alt="Gabriel-PostgreSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />  
 </div>
 <br>
 <br>

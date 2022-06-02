@@ -17,7 +17,6 @@
   <img align="center" alt="Gabriel-Spring" height="35" width="45" src="https://cdn.discordapp.com/attachments/933196017048887377/976967659285536779/Sem_nome_80_60_px.png" />
   <img align="center" alt="Gabriel-JAVA" height="45" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Gabriel-PostgreSQL" height="45" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
-   <img align="center" alt="Gabriel-PostgreSQL" height="45" width="50" src="https://github.com/mayankchaudhary26/Cool-Readme-ideas#baracktocat-gif"/>
 </div>
 <br>
 <br>
